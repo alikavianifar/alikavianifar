@@ -79,12 +79,3 @@ Auth Systems       — custom backends, email verification, rate limiting, CAPTC
 **Performance** — query optimisation, N+1 prevention, select_related/prefetch_related, index usage, Docker multi-stage builds
 
 **Code Quality** — clean project structure, maintainable code, meaningful test coverage, CI/CD with GitHub Actions
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alikavianifar&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikavianifar&layout=compact&theme=default&hide_border=true" height="150" alt="Top Languages">
-</p>

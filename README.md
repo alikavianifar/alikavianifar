@@ -38,11 +38,29 @@ Open to full-time and freelance opportunities.
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23_WinForms-239120?logo=csharp&logoColor=white)
 
 **Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+**Async & Payments**
+
+![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+
+**API & Docs**
+
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+
+**Frontend**
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 **DevOps & Tooling**
 
@@ -50,6 +68,19 @@ Open to full-time and freelance opportunities.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+
+**Testing & Security**
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
+![Bandit](https://img.shields.io/badge/Bandit-333333?logo=python&logoColor=white)
+
+**Academic / Familiar**
+
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 **Currently Learning**
 
@@ -61,21 +92,26 @@ Open to full-time and freelance opportunities.
 ## What I Build
 
 ```
-REST APIs          — Django REST Framework, token auth, versioning, throttling
-E-Commerce         — cart systems, payment gateways, order lifecycle management
+REST APIs          — Django REST Framework, JWT + Token auth, Swagger docs, versioning, throttling
+E-Commerce         — cart systems, Stripe payment + webhooks, order lifecycle, coupon engine
+Async Systems      — Celery task queues, Redis broker, async email pipelines
 Blog & CMS         — rich text editors, comment moderation, SEO tooling
-Admin Dashboards   — role-based access, analytics, CSV export, AJAX interactions
-Auth Systems       — custom backends, email verification, rate limiting, CAPTCHA
+Admin Dashboards   — role-based access, Chart.js analytics, CSV export, AJAX interactions
+Auth Systems       — custom backends, email verification, rate limiting, CAPTCHA, session fixation prevention
 ```
 
 ---
 
 ## Focus Areas
 
-**Security** — rate limiting, signed tokens, session fixation prevention, CSRF/XSS protection, webhook signature verification, anti-enumeration patterns
+**Security** — rate limiting, JWT blacklist logout, signed tokens, session fixation prevention, CSRF/XSS protection,
+webhook signature verification (Stripe), anti-enumeration patterns, Bandit static analysis in CI
 
-**Architecture** — multi-app Django structure, split settings per environment, signal-based decoupling, role-based permissions, separation of concerns
+**Architecture** — multi-app Django structure, split settings per environment, signal-based decoupling,
+role-based permissions, separation of concerns
 
-**Performance** — query optimisation, N+1 prevention, select_related/prefetch_related, index usage, Docker multi-stage builds
+**Performance** — query optimisation, N+1 prevention, select_related/prefetch_related, index usage,
+Docker multi-stage builds
 
-**Code Quality** — clean project structure, maintainable code, meaningful test coverage, CI/CD with GitHub Actions
+**Code Quality** — clean project structure, maintainable code, 85+ automated tests across multiple apps
+(pytest + Django TestCase), CI/CD with GitHub Actions

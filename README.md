@@ -82,6 +82,8 @@ Open to full-time and freelance opportunities.
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 
 **Currently Learning**
 

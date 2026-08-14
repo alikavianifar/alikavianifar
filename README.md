@@ -103,7 +103,7 @@ Async Systems      — Celery task queues, Redis broker, async email pipelines
 Blog & CMS         — rich text editors, comment moderation, SEO tooling
 Admin Dashboards   — role-based access, Chart.js analytics, CSV export, AJAX interactions
 Auth Systems       — custom backends, email verification, rate limiting, CAPTCHA, session fixation prevention
-Embedded           — Arduino Mega 2560, C++ firmware, interactive programs & simple games (internship)
+Embedded           — Arduino Mega 2560, C++ firmware, interactive programs & games (internship)
 ```
 
 ---

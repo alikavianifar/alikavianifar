@@ -17,16 +17,14 @@
 
 ## About
 
-Django Developer with experience building production-ready web applications.
-Focused on the full backend lifecycle — from database design and RESTful APIs
-to Docker deployment and CI/CD pipelines.
+Django Developer building production-ready web applications, with hands-on experience across the
+full backend lifecycle — from database design and RESTful APIs to Docker deployment and CI/CD pipelines.
 
-Committed to clean architecture, security best practices,
-and writing maintainable, well-tested code.
+Committed to clean architecture, security best practices, and writing maintainable, well-tested code.
 
-Core stack: Python · Django · DRF · PostgreSQL · Docker · GitHub Actions
+**Core stack:** Python · Django · DRF · PostgreSQL · Docker · GitHub Actions
 
-Open to full-time and freelance opportunities.
+📍 Based in İstanbul, Türkiye · Open to full-time and freelance opportunities.
 
 ---
 
@@ -40,10 +38,11 @@ Open to full-time and freelance opportunities.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23_WinForms-239120?logo=csharp&logoColor=white)
 
-**Database**
+**Database & Caching**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 **Async & Payments**
 
@@ -77,13 +76,16 @@ Open to full-time and freelance opportunities.
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Bandit](https://img.shields.io/badge/Bandit-333333?logo=python&logoColor=white)
 
+**Embedded**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+
 **Academic / Familiar**
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 
 **Currently Learning**
 
@@ -101,6 +103,7 @@ Async Systems      — Celery task queues, Redis broker, async email pipelines
 Blog & CMS         — rich text editors, comment moderation, SEO tooling
 Admin Dashboards   — role-based access, Chart.js analytics, CSV export, AJAX interactions
 Auth Systems       — custom backends, email verification, rate limiting, CAPTCHA, session fixation prevention
+Embedded           — Arduino Mega 2560, C++ firmware, interactive programs & simple games (internship)
 ```
 
 ---
